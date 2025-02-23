@@ -1,6 +1,10 @@
 # 📸 Smart Attendance System
 
-This project implements a **Smart Attendance System** using facial recognition technology to automate and streamline the process of recording attendance.
+This project implements a **Smart Attendance System** using facial recognition technology to automate and streamline recording attendance.
+![Project Code ](demo_pics/SAS_Code.png)
+![Database Image](demo_pics/SAS__Database_Images.png)
+![Attendacne_Sheet](demo_pics/SAS_Attendance_Sheet.png)
+
 
 ## 🚀 Features
 
